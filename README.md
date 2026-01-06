@@ -1,4 +1,4 @@
-# Proyecto-6-Pruebas-de-Aplicaciones-M-viles-Urban-Lunch
+# Proyecto-6-Pruebas-de-Aplicaciones-Moviles-Urban-Lunch
 Proyecto de testing manual de una aplicación móvil Android, enfocado en validar los requisitos funcionales de Urban.Lunch. Incluye análisis de requisitos, diseño de una checklist de pruebas, ejecución en emulador/dispositivo Android y reporte de errores en Jira, con el objetivo de evaluar la calidad y estabilidad de la primera versión de la app.
 ## 📌 1. Objetivo del proyecto
 
@@ -84,3 +84,6 @@ Se elaboró un informe de pruebas donde se describe el estado general de la cali
 ## 📌 Conclusión
 
 Las pruebas permitieron identificar defectos relevantes en la primera versión de la aplicación Urban.Lunch, aportando información clave para mejorar la estabilidad y la experiencia del usuario antes de su lanzamiento.
+
+🪲 Lista de bugs reportados:
+➡️ [(https://docs.google.com/spreadsheets/d/1UL2M9sEK-zYKaGjh6EbA40q6XGuedqmgv6mQ6sRfLac/edit?usp=drive_link))]
